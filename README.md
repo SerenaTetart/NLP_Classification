@@ -14,11 +14,15 @@ In this repository you'll learn how to classify text based on multiple models su
 The basic libraries for machine learning and deep learning 😃
 
 Libraries:
-* Numpy
 * Tensorflow
 * Keras
-* Pandas
 * Pytorch
+* Scikit-learn
+* Pandas
+* Numpy
+* Matplotlib
+* Unidecode
+* nltk
 
 ## Project 1 - SMS Spam detection
 
