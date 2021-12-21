@@ -1,1 +1,25 @@
 # NLP_Classification
+
+## Table of contents
+* [General info](#general-info)
+* [Requirements](#requirements)
+* [Project 1: SMS Spam detection](#project-1---SMS-Spam-detection)
+* [Project 2: Fake news detection](#Project-2---Fake-news-detection)
+
+## General info
+In this repository you'll learn how to classify text based on multiple models such as: Naive Baye, LSTM, Transformers (Bert) and One vs All
+
+## Requirements
+
+The basic libraries for machine learning and deep learning 😃
+
+Libraries:
+* Numpy
+* Tensorflow
+* Keras
+* Pandas
+* Pytorch
+
+## Project 1 - SMS Spam detection
+
+## Project 2 - Fake news detection
