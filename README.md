@@ -22,6 +22,7 @@ Libraries:
 * Pandas
 * Numpy
 * Matplotlib
+* Transformers (Hugging face)
 * Unidecode
 * nltk
 
