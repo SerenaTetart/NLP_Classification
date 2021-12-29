@@ -30,4 +30,4 @@ Libraries:
 
 ## Project 2 - Fake news detection
 
-## Project 3 - Multiclass Classification
+## Project 3 - Sentiment Analysis
