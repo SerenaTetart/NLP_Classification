@@ -32,4 +32,6 @@ Libraries:
 
 ## Project 3 - Toxic comments detection/classification
 
-For this last project I am using: <a href='https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification'>Jigsaw Unintended Bias in Toxicity Classification</a>
+For this last project I am using the dataset from kaggle: <a href='https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification'>Jigsaw Unintended Bias in Toxicity Classification</a>
+
+It might not be a good choice for an exemple since you might need to do feature engineering to make it work.
