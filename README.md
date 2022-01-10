@@ -30,7 +30,7 @@ Libraries:
 
 ## Project 2 - Fake news detection
 
-## Project 3 - Toxic comments detection/classification
+## Project 3 - Toxic comments detection
 
 For this last project I am using the dataset from kaggle: <a href='https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification'>Jigsaw Unintended Bias in Toxicity Classification</a>
 
