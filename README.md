@@ -31,3 +31,5 @@ Libraries:
 ## Project 2 - Fake news detection
 
 ## Project 3 - Toxic comments detection/classification
+
+For this last project I am using: <a href='https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification'>Jigsaw Unintended Bias in Toxicity Classification</a>
