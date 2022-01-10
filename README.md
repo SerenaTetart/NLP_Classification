@@ -34,4 +34,4 @@ Libraries:
 
 For this last project I am using the dataset from kaggle: <a href='https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification'>Jigsaw Unintended Bias in Toxicity Classification</a>
 
-It might not be a good choice for an example since you might need to do feature engineering to make it work, but it work fine for 'normal' and 'toxic' data.
+This project needs some changes in order to be perfect but we can already predict 'normal' and 'toxic' data very well.
