@@ -40,6 +40,8 @@ Using LSTM we have 97.72% accuracy, just like Naive Baye.
 <img src="https://user-images.githubusercontent.com/65224852/150574731-ba2c0042-1fa4-4871-bab5-4d27f59b7aa4.PNG">
 </p>
 
+Using BERT we have 88.28% accuracy which is a bit lower than the other two.
+
 ## Project 2 - Fake news detection
 
 ## Project 3 - Toxic comments detection
