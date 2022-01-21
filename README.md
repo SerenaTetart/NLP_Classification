@@ -44,6 +44,20 @@ Using BERT we have 88.28% accuracy which is a bit lower than the other two.
 
 ## Project 2 - Fake news detection
 
+Using Naive Baye we have 62.92% accuracy and 54.07% of True news are misclassified as Fake news...
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/150576073-f012070b-c34c-4218-aa96-3b16bc694863.PNG">
+</p>
+
+Using LSTM we have 67.16% accuracy and 50.00% of True news are misclassified as Fake news...
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/150576076-05b8f3a1-df53-4df3-a580-a584e8f9fe0d.PNG">
+</p>
+
+Using BERT we have 65.51% accuracy but the F1 score is higher with 0.7916 whereas LSTM has 0.7876.
+
 ## Project 3 - Toxic comments detection
 
 For this last project I am using the dataset from kaggle: <a href='https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification'>Jigsaw Unintended Bias in Toxicity Classification</a>
