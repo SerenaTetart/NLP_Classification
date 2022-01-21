@@ -34,6 +34,12 @@ Using Naive Baye we have 97.72% accuracy ! (This is why companies use this algor
 <img src="https://user-images.githubusercontent.com/65224852/150574725-1796aa22-348e-4763-a100-d422ef67cf52.PNG">
 </p>
 
+Using LSTM we have 97.72% accuracy, just like Naive Baye.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/150574731-ba2c0042-1fa4-4871-bab5-4d27f59b7aa4.PNG">
+</p>
+
 ## Project 2 - Fake news detection
 
 ## Project 3 - Toxic comments detection
