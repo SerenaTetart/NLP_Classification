@@ -28,6 +28,12 @@ Libraries:
 
 ## Project 1 - SMS Spam detection
 
+Using Naive Baye we have 97.72% accuracy ! (This is why companies use this algorithm for spams classification)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/150574725-1796aa22-348e-4763-a100-d422ef67cf52.PNG">
+</p>
+
 ## Project 2 - Fake news detection
 
 ## Project 3 - Toxic comments detection
