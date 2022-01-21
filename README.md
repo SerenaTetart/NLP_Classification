@@ -41,3 +41,9 @@ Using Naive Baye we have for respectively normal and toxic data: 96.80% and 75.0
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/150573359-655195b0-57a8-4c52-8d54-28edfaf0fce2.PNG">
 </p>
+
+Using LSTM we have for respectively normal and toxic data: 83.11% and 84.15% accuracy.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/150574157-b714308b-d388-4ff2-a136-68ac48066307.PNG">
+</p>
