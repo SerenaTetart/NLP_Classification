@@ -10,22 +10,6 @@
 ## General info
 In this repository you'll learn how to classify text based on multiple models such as: Naive Baye, LSTM, Transformers (Bert) and One vs All
 
-## Requirements
-
-The basic libraries for machine learning and deep learning 😃
-
-Libraries:
-* Tensorflow
-* Keras
-* Pytorch
-* Scikit-learn
-* Pandas
-* Numpy
-* Matplotlib
-* Transformers (Hugging face)
-* Unidecode
-* nltk
-
 ## Project 1 - SMS Spam detection
 
 Using Naive Baye we have 97.72% accuracy ! (This is why companies use this algorithm for spams classification)
