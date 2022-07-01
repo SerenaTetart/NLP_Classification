@@ -2,7 +2,6 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Requirements](#requirements)
 * [Project 1: SMS Spam detection](#project-1---SMS-Spam-detection)
 * [Project 2: Fake news detection](#Project-2---Fake-news-detection)
 * [Project 3: Toxic comments detection/classification](#Project-3---Toxic-comments-detectionclassification)
