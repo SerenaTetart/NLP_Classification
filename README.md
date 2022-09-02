@@ -11,7 +11,7 @@ In this repository you'll learn how to classify text based on multiple models su
 
 ## Project 1 - SMS Spam detection
 
-Using Naive Baye we have 97.72% accuracy ! (This is why companies use this algorithm for spams classification)
+Using Naive Baye we have 98,56% accuracy ! (This is why companies use this algorithm for spams classification)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/150574725-1796aa22-348e-4763-a100-d422ef67cf52.PNG">
@@ -23,7 +23,7 @@ Using LSTM we have 97.72% accuracy, just like Naive Baye.
 <img src="https://user-images.githubusercontent.com/65224852/150574731-ba2c0042-1fa4-4871-bab5-4d27f59b7aa4.PNG">
 </p>
 
-Using BERT we have 88.28% accuracy which is a bit lower than the other two.
+And using BERT we have 97.61% accuracy.
 
 ## Project 2 - Fake news detection
 
@@ -39,7 +39,7 @@ Using LSTM we have 67.16% accuracy and 50.00% of True news are misclassified as 
 <img src="https://user-images.githubusercontent.com/65224852/150576076-05b8f3a1-df53-4df3-a580-a584e8f9fe0d.PNG">
 </p>
 
-Using BERT we have 65.51% accuracy but the F1 score is higher with 0.7916 whereas LSTM has 0.7876.
+Using BERT we have 65.20% accuracy, the algorithm doesn't learn much.
 
 ## Project 3 - Toxic comments detection
 
