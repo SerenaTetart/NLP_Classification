@@ -2,9 +2,9 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Project 1: SMS Spam detection](#project-1---SMS-Spam-detection)
-* [Project 2: Fake news detection](#Project-2---Fake-news-detection)
-* [Project 3: Toxic comments detection/classification](#Project-3---Toxic-comments-detectionclassification)
+* [Project 1: SMS Spam detection](#project-1---sms-spam-detection)
+* [Project 2: Fake news detection](#project-2---fake-news-detection)
+* [Project 3: Toxic comments detection](#project-3---toxic-comments-detection)
 
 ## General info
 In this repository you'll learn how to classify text based on multiple models such as: Naive Baye, LSTM, Transformers (Bert) and One vs All
