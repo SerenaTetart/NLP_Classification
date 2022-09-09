@@ -45,16 +45,29 @@ Using BERT we have 65.20% accuracy, the algorithm doesn't learn much.
 
 For this last project I am using the dataset from kaggle: <a href='https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification'>Jigsaw Unintended Bias in Toxicity Classification</a>
 
-This project needs some changes in order to be perfect but we can already predict 'normal' and 'toxic' data very well.
+Using Naive Baye we have:
+* 81.68% accuracy for normal data
+* 39.75% accuracy for toxic data
+* 31.75% accuracy for obscene data
+* 53.86% accuracy for insults
 
-Using Naive Baye we have for respectively normal and toxic data: 96.80% and 75.08% accuracy.
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/65224852/150573359-655195b0-57a8-4c52-8d54-28edfaf0fce2.PNG">
-</p>
-
-Using LSTM we have for respectively normal and toxic data: 83.11% and 84.15% accuracy.
+This shows the limits of Naive Baye algorithm.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65224852/150574157-b714308b-d388-4ff2-a136-68ac48066307.PNG">
+<img src="https://user-images.githubusercontent.com/65224852/189272269-2320e2f3-3233-4c78-8a07-81f332221380.png">
 </p>
+
+Using LSTM we have:
+We have:
+* 83.27% accuracy for normal data
+* 46.52% accuracy for toxic data
+* 64.29% accuracy for obscene data
+* 61.75% accuracy for insults
+
+This is a great improvement from Naive Bayes.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/189272275-b5c4a050-fc06-4c1f-8a9e-45165cb64cbc.png">
+</p>
+
+Using BERT we have 74% accuracy in total.
