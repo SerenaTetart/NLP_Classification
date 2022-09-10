@@ -58,7 +58,6 @@ This shows the limits of Naive Baye algorithm.
 </p>
 
 Using LSTM we have:
-We have:
 * 83.27% accuracy for normal data
 * 46.52% accuracy for toxic data
 * 64.29% accuracy for obscene data
