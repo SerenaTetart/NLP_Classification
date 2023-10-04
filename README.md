@@ -27,13 +27,13 @@ And using BERT we have 97.61% accuracy.
 
 ## Project 2 - Fake news detection
 
-Using Naive Baye we have 62.92% accuracy and 54.07% of True news are misclassified as Fake news...
+Using Naive Baye we have 62.92% accuracy and 60.00% of True news are misclassified as Fake news...
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/150576073-f012070b-c34c-4218-aa96-3b16bc694863.PNG">
 </p>
 
-Using LSTM we have 67.16% accuracy and 50.00% of True news are misclassified as Fake news...
+Using LSTM we have 67.16% accuracy and 80.90% of True news are misclassified as Fake news...
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/150576076-05b8f3a1-df53-4df3-a580-a584e8f9fe0d.PNG">
@@ -46,10 +46,12 @@ Using BERT we have 65.20% accuracy, the algorithm doesn't learn much.
 For this last project I am using the dataset from kaggle: <a href='https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification'>Jigsaw Unintended Bias in Toxicity Classification</a>
 
 Using Naive Baye we have:
-* 81.68% accuracy for normal data
-* 39.75% accuracy for toxic data
-* 31.75% accuracy for obscene data
-* 53.86% accuracy for insults
+* 86.95% accuracy for normal data
+* 33.39% accuracy for severe toxic data
+* 19.23% accuracy for obscene data
+* 35.06% accuracy for insults
+
+For a total of 72.74% Accuracy.
 
 This shows the limits of Naive Baye algorithm.
 
@@ -58,10 +60,12 @@ This shows the limits of Naive Baye algorithm.
 </p>
 
 Using LSTM we have:
-* 83.27% accuracy for normal data
-* 46.52% accuracy for toxic data
-* 64.29% accuracy for obscene data
-* 61.75% accuracy for insults
+* 91.18% accuracy for normal data
+* 34.59% accuracy for severe toxic data
+* 48.65% accuracy for obscene data
+* 46.97% accuracy for insults
+
+For a total of 76.78% Accuracy.
 
 This is a great improvement from Naive Bayes.
 
